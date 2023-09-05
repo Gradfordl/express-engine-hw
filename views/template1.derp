@@ -1,0 +1,12 @@
+<head>
+    #title#
+</head>
+<body>
+    <h1>#head#</h1>
+    <h3>#content#</h3>
+    <img src="#url#" />
+    <br />
+    <a href="#href#">
+    lets goooo
+    </a>
+</body>

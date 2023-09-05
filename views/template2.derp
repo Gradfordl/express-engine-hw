@@ -1,0 +1,11 @@
+<head>
+    #title#
+</head>
+<body>
+    <h1>#head#</h1>
+    <img style="max-width: 25%" src="#url#" />
+    #content#
+    <a href="#href#">
+    who's next???
+    </a>
+</body>
